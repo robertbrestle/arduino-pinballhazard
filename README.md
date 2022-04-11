@@ -35,7 +35,7 @@ TODO
 
 ## Variables
 | VARIABLE | PURPOSE | NOTES |
-|---|---|
+|---|---|---|
 | SERVO_DELAY | delay of the servo between angle changes in milliseconds | default 10 |
 | SERVO_INCREMENT | the servo increment/decrement angle | default 5 |
 | LOOP_DELAY | delay of the loop in milliseconds |  default 100 |
